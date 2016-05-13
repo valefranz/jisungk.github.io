@@ -4,6 +4,8 @@ Hi! My name is [Ji-Sung](http://www.jisungkim.com). I'm currently studying Compu
 
 This is a repo for my personal website.
 
+![Screenshot](https://cloud.githubusercontent.com/assets/9053987/15261523/0eae97e8-192b-11e6-8683-b2f8fe5f8a3b.png)
+
 ## Copyright
 
 Code, images and other media are copyrighted (Ji-Sung Kim).
