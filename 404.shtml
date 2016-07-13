@@ -11,10 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="http://jisungkim.com/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles -->
-    <link href="css/custom.css" rel="stylesheet">
+    <link href="http://jisungkim.com/css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -27,7 +27,7 @@
     <div class="container">
         <div class="custom-header">
             <h1 style="font-size:100px">404</h1>
-            <h2 style="font-size:25px">Page not found</h2>
+            <h2 style="font-size:25px">Page not found :(</h2>
             <h3 style="text-decoration:underline" ><a href="http://jisungkim.com">Home</a></h3>
         </div>
     </div><!-- /.container -->
