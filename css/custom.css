@@ -49,6 +49,7 @@ img.img-profile {
 	max-width: 90%;
 	height: auto;
 	margin: 0 auto;
+    padding-bottom: 12px;
 }
 
 li.li-github {
